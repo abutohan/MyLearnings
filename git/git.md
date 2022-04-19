@@ -19,7 +19,7 @@
 # Commiting the changes on the local machine
 
 1. git commit -m "Title description of the changes" -m "Detailed description of the changes"
-   ![git-commit](/git-commit.PNG "git-commit")
+   ![git-commit](./git-commit.PNG "git-commit")
 
 - -m is message
 
@@ -52,7 +52,7 @@
 
 ## Work flow
 
-![git-workflow](/git-workflow.PNG "git-workflow")
+![git-workflow](./git-workflow.PNG "git-workflow")
 
 # Git Branching
 
